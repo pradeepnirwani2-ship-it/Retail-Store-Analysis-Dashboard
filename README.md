@@ -1,4 +1,3 @@
-# Retail-Store-Analysis-Dashboard
 # Retail Store Analytics Dashboard
 
 ## Project Overview
